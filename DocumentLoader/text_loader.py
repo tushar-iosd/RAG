@@ -4,8 +4,13 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import PromptTemplate
 from dotenv import load_dotenv
 
+from langchain_google_genai import ChatGoogleGenerativeAI
+
 load_dotenv()
-model = ChatOpenAI()
+model = ChatGoogleGenerativeAI(
+    model="gemini-3.6-flash"
+)
+
 prompt = PromptTemplate(
     template='Write a summary of the following poem - \n {poem}', 
     input_variables=['poem']
