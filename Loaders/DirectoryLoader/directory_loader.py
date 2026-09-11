@@ -1,6 +1,6 @@
 from langchain_community.document_loaders import DirectoryLoader, PyPDFLoader
 
-loader = DirectoryLoader(path='DirectoryLoader/AIBooks', glob="**/*.pdf", loader_cls= PyPDFLoader)
+loader = DirectoryLoader(path='Loaders/DirectoryLoader/AIBooks', glob="**/*.pdf", loader_cls= PyPDFLoader)
 
 #docs = loader.load() #Eager Loading
 
