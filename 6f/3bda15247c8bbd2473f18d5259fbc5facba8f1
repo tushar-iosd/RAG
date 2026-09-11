@@ -1,0 +1,16 @@
+Loaders/CSVLoader/csv_loader.py
+  h_b472a380fa373c 3
+Loaders/DirectoryLoader/directory_loader.py
+  h_b472a380fa373c 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6f3bda15247c8bbd2473f18d5259fbc5facba8f1",
+  "prompts": {},
+  "humans": {
+    "h_b472a380fa373c": {
+      "author": "Tushar <tushar.iosd@gmail.com>"
+    }
+  }
+}
