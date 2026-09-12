@@ -17,7 +17,6 @@ splitter = RecursiveCharacterTextSplitter(
     chunk_overlap=0
 )
 
-
 result = splitter.split_text(text) # For text splitter
 
 #result = splitter.split_documents(docs) # For doc splitter
