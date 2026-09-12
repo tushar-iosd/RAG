@@ -1,0 +1,14 @@
+TextSplitters/recursive_character_text_splitter.py
+  h_b472a380fa373c 1-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "00584a83c253c389119ecceb2d9d6432cfc23298",
+  "prompts": {},
+  "humans": {
+    "h_b472a380fa373c": {
+      "author": "Tushar <tushar.iosd@gmail.com>"
+    }
+  }
+}
