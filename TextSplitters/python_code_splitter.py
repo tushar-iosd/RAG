@@ -2,7 +2,6 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter, Language
 
 text = """from typing import List
 
-
 class UserService:
 
     def __init__(self):
