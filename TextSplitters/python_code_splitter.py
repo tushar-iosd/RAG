@@ -42,7 +42,6 @@ class UserService:
         user["active"] = False
         return True
 
-
 def main():
     service = UserService()
 
