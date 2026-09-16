@@ -9,4 +9,4 @@ docs = loader.lazy_load() #Lazy Loading
 print(docs) #Printed correct Count(516) just ignore the fontTools warninh
 
 for doc in docs:
-    print(doc.metadata)
+    print(doc.metadata) 
