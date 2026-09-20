@@ -1,0 +1,14 @@
+Loaders/DirectoryLoader/directory_loader.py
+  h_b472a380fa373c 9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f9a301c455a200415874c9519b48b79095f85e16",
+  "prompts": {},
+  "humans": {
+    "h_b472a380fa373c": {
+      "author": "Tushar <tushar.iosd@gmail.com>"
+    }
+  }
+}
