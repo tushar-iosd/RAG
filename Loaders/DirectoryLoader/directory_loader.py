@@ -6,7 +6,7 @@ loader = DirectoryLoader(path='Loaders/DirectoryLoader/AIBooks', glob="**/*.pdf"
 
 docs = loader.lazy_load() #Lazy Loading
 
-print(docs) #Printed correct Count(516) just ignore the fontTools warninh
+print(docs) #Printed correct Count(516) just ignore the fontTools warning
 
 for doc in docs:
     print(doc.metadata) 
